@@ -1,2 +1,2 @@
 # testowanie
-Testowe repozytorium Ewelina
+Testowe repozytorium publiczne Ewelina
